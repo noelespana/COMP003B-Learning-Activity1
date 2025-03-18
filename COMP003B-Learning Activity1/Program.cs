@@ -1,3 +1,10 @@
+// this is a single line comment
+/*
+ * Author: Noel Espana
+ * Course: COMP-003B
+ * Faculty: Jonathan Cruz
+ * Purpose: My first web app :)
+ * */
 namespace COMP003B_Learning_Activity1
 {
     public class Program
